@@ -1,5 +1,3 @@
-# desafios.dio-html
-
 ## Desafio 1 - Criar Uma Página Web Utilizando as Tags Aprendidas
 
 ### Entendendo o Desafio
